@@ -1,7 +1,7 @@
 name: C4
 favicon: null
 layout_spectrum: 0.99246
-typography_spectrum: 0.06323117832653224
+typography_spectrum: 1
 title: Centre for Critical Care Collaboration
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.41831387975253165
-  lightness: 0.6947176374960691
-  saturation: 0.6878089280799031
-  rhythmicContrast: 0.457673326600343
+    - '#272727'
+    - '#f3cb6d'
+    - '#fcfbfd'
+    - '#846f42'
+    - '#919192'
+  brandStrength: 0.4375
+  lightness: 0.3125
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
